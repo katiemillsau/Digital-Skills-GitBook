@@ -2,7 +2,7 @@
 
 ## Overview
 
-While the concept of fake news isn’t new, it has become more ubiquitous with the popularity of social media and the increasing reliance on social media in everyday life. Social media gives anyone the power to share information, whether true or false, in many different forms. You may come across fake news in the form of legitimate looking news articles, YouTube and social media videos, memes, infographics, viral content, radio and TV broadcasts, by word of mouth, and more.
+While the concept of **fake news** isn’t new, it has become more ubiquitous with the popularity of social media and the increasing reliance on social media in everyday life. Social media gives anyone the power to share information, whether true or false, in many different forms. You may come across fake news in the form of legitimate looking news articles, YouTube and social media videos, memes, infographics, viral content, radio and TV broadcasts, by word of mouth, and more.
 
 This article will cover:
 
