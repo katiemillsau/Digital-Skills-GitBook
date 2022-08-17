@@ -5,6 +5,6 @@ newIssueWelcomeComment: >
   Thanks for opening your first issue here! Be sure to follow the issue template!
 
 
-# Comment to be posted to on PRs from first time contributors in your repository
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 newPRWelcomeComment: >
   Thanks for opening your first pull request! It's great to see you gittin' involved! 🎉
